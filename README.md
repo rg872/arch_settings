@@ -20,3 +20,5 @@
 * install video drive (arch xorg page)
 * install xorg-server, xinit
 * install i3
+
+there's an NVM setting in zshrc so install nvm from AUR
