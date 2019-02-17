@@ -23,4 +23,6 @@
 * install xorg-server, xinit
 * install i3
 
-there's an NVM setting in zshrc so install nvm from AUR
+### Notes:
+* there's an NVM setting in zshrc so install nvm from AUR
+* check out terminal.sexy for Xresources color settings
