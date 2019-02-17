@@ -1,0 +1,58 @@
+Xft.dpi:                    96
+Xft.antialias:              true
+Xft.rgba:                   rgb
+Xft.hinting:                true
+Xft.hintstyle:              hintslight
+
+! special
+*.foreground:   #ffffff
+*.background:   #000000
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #303030
+*.color8:       #5f5f5f
+
+! red
+*.color1:       #c03000
+*.color9:       #ff3a78
+
+! green
+*.color2:       #b1d631
+*.color10:      #a6cd07
+
+! yellow
+*.color3:       #fecf35
+*.color11:      #b5c865
+
+! blue
+*.color4:       #426870
+*.color12:      #4a7781
+
+! magenta
+*.color5:       #6d506d
+*.color13:      #ff3b77
+
+! cyan
+*.color6:       #4bb5c1
+*.color14:      #4bb5c1
+
+! white
+*.color7:       #e2e2e5
+*.color15:      #e2e2e5
+
+URxvt*shading: 15
+
+URxvt*saveLines: 12000
+
+URxvt*font: xft:Mono:pixelsize=12:antialias=true:hinting=true:minspace=False
+URxvt*boldFont: xft:Mono:bold:pixelsize=12:antialias=true:hinting=true:minspace:False
+
+URxvt*scrollBar: false
+
+!! Simple tabs
+URxvt.perl-ext-common: ...,tabbed,...
+URxvt.tabbed.tabbar-fg: 4
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fg: 2
+URxvt.tabbed.tab-bg: 0
